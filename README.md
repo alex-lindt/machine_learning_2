@@ -6,7 +6,7 @@ Labs in collaboration with [David Biertimpel](https://github.com/d4vidbiertmpl).
 Topics were (among others):
 
 - Common probability distributions
- -Graphical models: Bayesian networks and Markov network
+- Graphical models: Bayesian networks and Markov network
 - Expectation maximization
 - Variable elimination, belief propagation
 - Approximate variational inference
